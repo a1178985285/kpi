@@ -1,0 +1,15 @@
+.box {
+  min-height: 100vh;
+  background: #F5F5F5;
+  padding-bottom: 6px;
+  overflow: hidden;
+}
+.big {
+  background: #ffffff;
+  padding: 8px;
+}
+.width-auto {
+  width: 100%;
+  padding: 10px;
+  overflow: hidden;
+}
